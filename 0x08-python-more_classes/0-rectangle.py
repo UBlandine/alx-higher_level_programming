@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-"""
-module "0-rectangle"
-"""
+"""Defines a class Rectangle"""
 
 
 class Rectangle:
+    """Represents a rectangle. No body."""
     pass
